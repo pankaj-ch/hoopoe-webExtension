@@ -19,4 +19,19 @@
     },
   
 
+  "browser_action": {
+    "browser_style": true,
+    "default_icon": {
+      "16": "icons/hoopoe-16.png",
+      "19": "icons/hoopoe-19.png",
+      "32": "icons/hoopoe-32.png",
+      "38": "icons/hoopoe-38.png",
+      "48": "icons/hoopoe-48.png",
+      "64": "icons/hoopoe-64.png",
+      "128": "icons/hoopoe-128.png"
+    },
+    "default_title": "__MSG_extName__",
+    "default_popup": "popup/index.html"
+  }
+
 }
