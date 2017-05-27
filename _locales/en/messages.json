@@ -1,0 +1,10 @@
+{
+	"extName": {
+		"message": "Hoopoe",
+		"description": "Extension Name."
+	},
+	"extDesc": {
+		"message": "Hoopoe Site Analysis - Powered By Artificial Intelligence HACHI",
+		"description": "Extension Description."
+	}
+}
